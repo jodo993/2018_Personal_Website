@@ -1,0 +1,43 @@
+/* Main CSS Page*/
+
+.navColor
+{
+	background-color: gray;
+}
+
+#introContentSectionOne
+{
+	text-align: center;
+	padding-top: 5%;
+	background-image: url("images/introContentBackground.jpg");
+	background-position: center;
+	background-size: cover;
+	margin: 0;
+	height: 300px;
+}
+
+#introductionSectionTwo
+{
+	background-color: #343a40;
+	margin: 0;
+	height: 300px;
+}
+
+#introParagraphRight
+{
+	text-align: center;
+	font-size: 12pt;
+	padding-left: 20%;
+}
+
+#introParagraphLeft
+{
+	text-align: center;
+	font-size: 12pt;
+	padding-right: 20%;
+}
+
+#introParagraphText
+{
+	color: white;
+}
