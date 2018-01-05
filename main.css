@@ -1,10 +1,22 @@
 /* Main CSS Page*/
 
+/* Nav Bar*/
+#navBarTop
+{
+	position: sticky;
+	top: 0px;
+}
 .navColor
 {
 	background-color: gray;
 }
 
+.navRight
+{
+	float: right;
+}
+
+/* Intro CSS */
 #introContentSectionOne
 {
 	text-align: center;
@@ -16,6 +28,7 @@
 	height: 300px;
 }
 
+/* About CSS */
 #introductionSectionTwo
 {
 	background-color: #343a40;
@@ -40,4 +53,40 @@
 #introParagraphText
 {
 	color: white;
+}
+
+/* Projects CSS */
+#projectsSectionThree
+{
+	background-color: white;
+	margin: 0;
+	height: 300px;
+}
+
+#projectsColumn
+{
+	text-align: center;
+}
+
+#hrH4
+{
+	color: #000000;
+	height: 2px;
+}
+
+/* Footer CSS */
+#endSectionFour
+{
+	background-color: #343a40;
+	margin: 0;
+	height: 40px;
+	text-align: center;
+	color: white;
+	bottom: 0;
+}
+
+#footerText
+{
+	padding-top: 8px;
+	margin-bottom: 0;
 }
